@@ -4,18 +4,17 @@
 
 ## Dataset
  - Dataset is from kaggle.
- - It consists of 1 excel file  Smartphone dataset
-   -Brands: The brands of smartphones included in the dataset.
-   -Colors: The colors available for the smartphones.
-   -Memory: The storage capacity of the smartphones, typically measured in gigabytes (GB) or megabytes(MB)
-   -Storage: The internal storage capacity of the smartphones, often measured in gigabytes (GB) or megabytes
-             (MB).
-   -Rating: The user ratings or scores assigned to the smartphones, reflecting user satisfaction or performance.
-   -Selling Price: The price at which the smartphones are sold to consumers.
-   -Original Price: The original or list price of the smartphones before any discounts or promotions.
-   -Mobile Name :  Name of the smartphones .
-   -Discount: The discount applied to the original price to calculate the selling price.
-   -Discount percentage: The percentage discount applied to the original price to calculate the selling price.
+ - It consists of 1 excel file  Smartphone dataset.
+   - Brands: The brands of smartphones included in the dataset.
+   - Colors: The colors available for the smartphones.
+   - Memory: The storage capacity of the smartphones, typically measured in gigabytes (GB) or megabytes(MB)
+   - Storage: The internal storage capacity of the smartphones, often measured in gigabytes (GB) or megabytes(MB).
+   - Rating: The user ratings or scores assigned to the smartphones, reflecting user satisfaction or performance.
+   - Selling Price: The price at which the smartphones are sold to consumers.
+   - Original Price: The original or list price of the smartphones before any discounts or promotions.
+   - Mobile Name :  Name of the smartphones .
+   - Discount: The discount applied to the original price to calculate the selling price.
+   - Discount percentage: The percentage discount applied to the original price to calculate the selling price.
 
 
 ## Tools Used
