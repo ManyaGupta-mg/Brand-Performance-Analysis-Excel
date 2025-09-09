@@ -33,4 +33,5 @@
 - Is there a relationship between brand pricing and user ratings?
 - How does storage capacity impact the pricing and ratings within each brand?
 
-* Detailed insights are included in the [Smartphone Brand Performamce Analysis.pdf](https://github.com/ManyaGupta-mg/Brand-Performance-Analysis-Excel/blob/main/Smartphone%20Brand%20Performance%20Analysis%20Presentation.pdf)
+
+*Detailed insights are included in the [Smartphone Brand Performamce Analysis.pdf](https://github.com/ManyaGupta-mg/Brand-Performance-Analysis-Excel/blob/main/Smartphone%20Brand%20Performance%20Analysis%20Presentation.pdf)*
