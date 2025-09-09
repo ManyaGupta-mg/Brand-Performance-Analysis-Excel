@@ -4,19 +4,18 @@
 
 ## Dataset
  - Dataset is from kaggle.
- - It consists of 1 excel file .
-   - smartphone dataset 
-     -Brands: The brands of smartphones included in the dataset.
-     -Colors: The colors available for the smartphones.
-     -Memory: The storage capacity of the smartphones, typically measured in gigabytes (GB) or megabytes(MB)
-     -Storage: The internal storage capacity of the smartphones, often measured in gigabytes (GB) or megabytes
+ - It consists of 1 excel file  Smartphone dataset
+   -Brands: The brands of smartphones included in the dataset.
+   -Colors: The colors available for the smartphones.
+   -Memory: The storage capacity of the smartphones, typically measured in gigabytes (GB) or megabytes(MB)
+   -Storage: The internal storage capacity of the smartphones, often measured in gigabytes (GB) or megabytes
              (MB).
-     -Rating: The user ratings or scores assigned to the smartphones, reflecting user satisfaction or performance.
-     -Selling Price: The price at which the smartphones are sold to consumers.
-     -Original Price: The original or list price of the smartphones before any discounts or promotions.
-     -Mobile Name :  Name of the smartphones .
-     -Discount: The discount applied to the original price to calculate the selling price.
-     -Discount percentage: The percentage discount applied to the original price to calculate the selling price.
+   -Rating: The user ratings or scores assigned to the smartphones, reflecting user satisfaction or performance.
+   -Selling Price: The price at which the smartphones are sold to consumers.
+   -Original Price: The original or list price of the smartphones before any discounts or promotions.
+   -Mobile Name :  Name of the smartphones .
+   -Discount: The discount applied to the original price to calculate the selling price.
+   -Discount percentage: The percentage discount applied to the original price to calculate the selling price.
 
 
 ## Tools Used
@@ -33,6 +32,6 @@
 - What is the average selling price for each brand?
 - Which brands offer the highest and lowest average discounts?
 - Is there a relationship between brand pricing and user ratings?
-- How does storage capacity impact the pricing and ratings within each brand?
+- How does storage capacity impact the pricing and ratings within each brand?
 
-* Detailed insights are included in the [Smartphone Brand Performamce Analysis.pdf]
+* Detailed insights are included in the [Smartphone Brand Performamce Analysis.pdf](https://github.com/ManyaGupta-mg/Brand-Performance-Analysis-Excel/blob/main/Smartphone%20Brand%20Performance%20Analysis%20Presentation.pdf)
